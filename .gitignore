@@ -1,0 +1,5 @@
+node_modules
+/renderer/out
+/renderer/.next
+/app/dist
+/dist
